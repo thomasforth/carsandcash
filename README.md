@@ -1,4 +1,4 @@
-# carsandcash
+# Cars and Cash
 A website tool to show the relationship between car ownership and income for small areas (MSOAs) in England &amp; Wales. Try it now at https://www.imactivate.com/carsandcash/.
 
 ### Sources
